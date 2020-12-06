@@ -40,7 +40,9 @@ public class Product
 	//behaviour
 	
 	
-	void showProductDetails()
+	public void showProductDetails()//method signature
+	
+	
 	{
 		System.out.println("----ProductID-----" + pid);
 		System.out.println("----Price-----" + price);
